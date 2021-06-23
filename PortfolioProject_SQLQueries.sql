@@ -1,3 +1,11 @@
+/*
+
+Covid 19 Data Exploration
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
 Select * from PortfolioProject..['CovidDeaths']
 order by 3,4
 
@@ -20,11 +28,6 @@ WHERE location = 'United States'
 SELECT location, date, population, total_cases, (total_cases / population)*100 AS CasePopulationPercentage
 FROM PortfolioProject..['CovidDeaths']
 WHERE location like '%United States%'
-
-
--- Show the whole CovidDeaths table
-SELECT *
-FROM PortfolioProject..['CovidDeaths']
 
 
 -- Looking at Countries with the Highest Infection Count compared to Population 
