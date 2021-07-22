@@ -7,6 +7,7 @@
 
 ### Project-2: Tableau Visualization
 - Getting data from SQL.
-- Importing Data into Tableau.
+- Importing Data into Tableau Public.
 - Building our Visualizations.
 - Building our Dashboard.
+- Link to Dashboard: https://public.tableau.com/app/profile/asif.rashid7982/viz/CovidDashboard_16269113032960/Dashboard1
