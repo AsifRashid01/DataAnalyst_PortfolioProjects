@@ -17,4 +17,4 @@
 - Obtain Nashville Housing Data
 - Import Dataset into SQLServer
 - Converting to Date Format, Populating NULL values, Splitting data, Modifying data, Removing duplicates and Deleting unused columns
-- [Link to Queries!]  
+- [Link to Queries!](https://github.com/AsifRashid01/DataAnalyst_PortfolioProjects/blob/main/Project-3/NashvilleHousing_Clean.sql) 
