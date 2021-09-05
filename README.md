@@ -2,11 +2,12 @@
 
 ### Project-1: SQL Data Exploration
 - Obtain Covid-19 Dataset.
+- Prepare Dataset using Excel.
 - Import Dataset into SQLServer.
-- Create queries to explore dataset [[CovidData_Exploration.sql]] (CovidData_Exploration.sql).
+- Create queries to explore dataset (CovidData_Exploration.sql).
 
 ### Project-2: Tableau Visualization
-- Getting data from SQL.
+- Getting processed Covid-19 data back from SQLServer.
 - Importing Data into Tableau Public.
 - Building our Visualizations.
 - Building our Dashboard.
