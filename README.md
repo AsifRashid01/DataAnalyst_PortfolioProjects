@@ -7,7 +7,7 @@
 - Create queries to explore dataset (CovidData_Exploration.sql).
 
 ### Project-2: Tableau Visualization
-- Getting processed Covid-19 data back from SQLServer.
+- Getting processed Covid-19 data back from SQLServer (Tableau_CovidData_Queries.sql).
 - Importing Data into Tableau Public.
 - Building our Visualizations.
 - Building our Dashboard.
